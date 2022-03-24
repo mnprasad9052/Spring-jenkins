@@ -20,6 +20,7 @@ public class SpringJenkinsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringJenkinsApplication.class, args);
+		System.out.println("new statement added");
 		
 		
 	}
